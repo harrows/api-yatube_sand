@@ -1,1 +1,2 @@
-# api-yatube_sand
+# api_yatube
+api_yatube
